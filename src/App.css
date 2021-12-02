@@ -12,3 +12,6 @@ body {
 }
 
 /* Write your code here. */
+.ulstyle {
+  list-style-type: none;
+}
